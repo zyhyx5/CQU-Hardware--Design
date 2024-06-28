@@ -1,1 +1,1 @@
-# CQU-Hardware--Design
+# CQU硬件综合设计
